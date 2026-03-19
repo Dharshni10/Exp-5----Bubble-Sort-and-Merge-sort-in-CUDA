@@ -3,12 +3,11 @@
 **NAME : DHARSHNI V M**
 
 
-**REGISTER NO : 212223240029<img width="371" height="611" alt="Screenshot 2026-03-19 223823" src="https://github.com/user-attachments/assets/b290186e-9255-4368-b224-f9f3573a915f" />
-<img width="371" height="611" alt="Screenshot 2026-03-19 223823" src="https://github.com/user-attachments/assets/b290186e-9255-4368-b224-f9f3573a915f" />
-**
+**REGISTER NO : 212223240029**
 
 **Objective:**
 Implement Bubble Sort and Merge Sort on the GPU using CUDA, analyze the efficiency of this sorting algorithm when parallelized, and explore the limitations of Bubble Sort and Merge Sort for large datasets.
+
 ## AIM:
 Implement Bubble Sort and Merge Sort on the GPU using CUDA to enhance the performance of sorting tasks by parallelizing comparisons and swaps within the sorting algorithm.
 
@@ -324,7 +323,7 @@ int main() {
 
 
 ## OUTPUT:
-
+<img width="371" height="611" alt="Screenshot 2026-03-19 223823" src="https://github.com/user-attachments/assets/b290186e-9255-4368-b224-f9f3573a915f" />
 
 ## RESULT:
 Thus, the program has been executed using CUDA to accelerate sorting operations and compare the performance of CPU and GPU implementations of Bubble Sort and Merge Sort.
